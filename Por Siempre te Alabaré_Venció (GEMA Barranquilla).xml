@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2022-05-15T16:40:29">
+  <properties>
+    <titles>
+      <title>Por Siempre te Alabaré/Venció</title>
+    </titles>
+    <authors>
+      <author>GEMA Barranquilla</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eres Dios, te levantamos hoy<br/>Cantaremos, alabaremos<br/>Y jamás nada nos detendrá<br/>Eres digno de toda gloria</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, no hay como Tu Dios<br/>Reinas por siempre<br/>Sobre todo Señor</lines>
+    </verse>
+    <verse name="b1">
+      <lines>//Nadie como Tú//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>A Ti<br/>Por siempre te alabaré<br/>Día y noche gloria yo te daré<br/>Por siempre te alabaré</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amor sin fin, luz antes que el sol<br/>Tu gloria es eterna<br/>Sin parar, no terminará<br/>La creación hoy te canta</lines>
+    </verse>
+    <verse name="v4">
+      <lines>//Te levantamos, te damos nuestro A Amor<br/>Por todo lo que haces Dios la gloria te daré//</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Venció, Cristo venció<br/>Venció a toda autoridad<br/>Venció, Cristo venció<br/>Venció  a toda potestad</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Él es jesús hijo de Dios y en Él nadie se puede perder<br/>Él dijo que el es la luz, es el camino, la vida y la verdad</lines>
+    </verse>
+  </lyrics>
+</song>
